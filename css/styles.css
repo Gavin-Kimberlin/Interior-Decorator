@@ -1,0 +1,29 @@
+.before {
+  float: left;
+  width:30%;
+  padding: 15px;
+}
+
+.during {
+  float: left;
+  width: 30%;
+  padding: 15px;
+}
+
+.after {
+  float: left;
+  width: 30%;
+  padding: 15px;
+}
+
+img {
+  width: 100%;
+}
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  text-align: center;
+}
